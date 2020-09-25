@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Ratish Barman",
+    "email": "r@b.com",
+    "age": 24,
+    "course": "Javascript",
+    "details": "Timing and costing"
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "email": "j@d.com",
+    "age": 25,
+    "course": "Java",
+    "details": "Timing and costing"
+  }
+]
